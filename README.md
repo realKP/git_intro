@@ -1,2 +1,1 @@
-"Kevin Peralta" 
-7
+"Kevin Peralta"
